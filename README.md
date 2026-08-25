@@ -11,10 +11,7 @@ Conteúdos praticados
 - Links internos e externos
 - Imagens
 - Tabelas
-- Colspan e rowspan
-- Navegação entre páginas
-- Estilização básica com CSS
-
+  
 Tecnologias
 
 - HTML5
